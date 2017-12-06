@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\main.cpp(499): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\main.cpp(503): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\main.cpp(643): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\main.cpp(646): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\main.cpp(655): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\main.cpp(671): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  shader_install.cpp
+  Loading_func.cpp
+  Bind_Data.cpp
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\bind_data.cpp(61): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\bind_data.cpp(103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\bind_data.cpp(145): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\bind_data.cpp(187): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hzheng5\desktop\csci3260proj-master\project1\project1\bind_data.cpp(229): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\Users\hzheng5\Desktop\csci3260proj-master\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\hzheng5\Desktop\csci3260proj-master\Project1\x64\Debug\Project1.pdb (Full PDB)
